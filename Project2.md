@@ -2,7 +2,7 @@
 ### Project 2
 ### January 24th, 2020
 
-#### Health For Life
+### Health For Life
 
 Health and fitness are important factors in everyday life.  A huge factor that plays into overall health is weight gain, which will inevitably lead to obesity.  The cause of weight gain is generally caused by overeating or binge-eating.  Being over-weight or obese can lead to the chance of getting these health problems: sleep apnea, cancer, heart disease, high blood pressure, type 2 diabetes, and arthritis.  The application I will be creating will help people determine their overall calorie intake and whether they want to be in a deficit or surplus.
 The data that the application will collect is going to be personal information regarding body weight, neck, waist, neck, and hip measurements.   The data will be used to measure the user’s lean body mass and fat mass.  The user will be prompted to determine how much fat loss will be lost, total body weight loss required, rate of loss, weight loss per week, and deficit duration.  The user will also input personal information to create a profile, which will consist of their name, age, and gender.
